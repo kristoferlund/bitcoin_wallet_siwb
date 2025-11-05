@@ -3,6 +3,9 @@
 > [!IMPORTANT]
 > This is a version of the Bitcoin Wallet demo that uses Sign in with Bitcoin instead of Internet Identity to authenticate with ICP. 
 
+> [!WARNING]
+> The README below is not updated and correct for this demo. 
+
 
 This multiuser Bitcoin wallet allows the user to generate a Bitcoin
 address by logging in with their Internet Identity. The user can then send and receive Bitcoin to other users.
